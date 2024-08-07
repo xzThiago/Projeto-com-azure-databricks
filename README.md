@@ -1,6 +1,6 @@
 # Projeto-com-azure-databricks
 
-Este repositório contém um projeto completo que utiliza várias ferramentas da plataforma Azure para gerenciar o ciclo completo de dados, desde a ingestão até a visualização.
+Este repositório contém um projeto completo que utiliza várias ferramentas da plataforma Azure para gerenciar o ciclo completo de dados, desde a ingestão até a visualização. (Simular um caso real)
 
 🛠️ Ferramentas Utilizadas
 
